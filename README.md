@@ -1,18 +1,55 @@
 
 ![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/header.png)
 
-# 🐵 Curso de JavaScript desde Cero (con Humor)
+# 📘 Curso de JavaScript desde Cero
 
-Bienvenido al **cursito más divertido de JavaScript**.  
-Aprende los fundamentos del lenguaje acompañado del **Simio Programador**, con ejemplos claros, humor dev y práctica real.
+Bienvenido/a al repositorio oficial del **Curso de JavaScript desde Cero** 🚀  
+Este repositorio acompaña al curso en **YouTube** y contiene todo el código, ejemplos y ejercicios que veremos a lo largo de las clases.
 
-Este curso está diseñado para que **aprendas haciendo**, sin miedo al código.
+El objetivo del curso es que aprendas **JavaScript moderno** paso a paso, desde los fundamentos hasta conceptos más avanzados, aplicados a proyectos reales.
+
 
 ---
 
 ![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headerjavascript.png)
 
 [![YouTube](https://img.shields.io/badge/YouTube-JavaScript_Desde_Cero-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/a-FCy_HkXhE?si=t6kRMSiy2yAcEjnM)
+
+---
+
+## 🧠 ¿Qué aprenderás?
+
+- Fundamentos de JavaScript
+- Variables (`var`, `let`, `const`)
+- Tipos de datos
+- Operadores y estructuras de control
+- Funciones y scope
+- Arrays y objetos
+- Métodos importantes de JS
+- DOM y eventos
+- Programación asincrónica
+- Buenas prácticas
+- Mini proyectos prácticos
+
+---
+
+## 🗂️ Estructura del repositorio
+
+```bash
+/
+├── 01-fundamentos/
+├── 02-variables/
+├── 03-tipos-de-datos/
+├── 04-operadores/
+├── 05-funciones/
+├── 06-arrays/
+├── 07-objetos/
+├── 08-dom/
+├── 09-eventos/
+├── 10-async/
+├── proyectos/
+└── README.md
+```
 
 ---
 
